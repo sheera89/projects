@@ -1,3 +1,4 @@
+# Robotic Hand
 Robotic hand project utilized two Raspberry Pi 3s, an Arduino Mega, 3-d printed hand, servo motors, haptic feedback sensors, MCP3008 ADC converters, and buzzer motors.
 
 TCP/IP sockets were used to establish two-way communication between the two Pis. The Arduino Mega was used to drive the servo motors as the Raspberry Pi 3 could not provide the requisite current. The robotic glove was fitted with resistive strips which output an analog value depending on the how much the strips have been compressed (bent). The MCP3008 was utilized for its 10-bit ADC converter which took the values from the resistive strips and the haptic feedback sensors (gave a measure of "force" on the fingertips of the robotic hand) and sent the values to the opposite Pi. 
