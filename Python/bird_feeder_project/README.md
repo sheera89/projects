@@ -1,3 +1,4 @@
+# Bird Feeder Project
 Bird feeder project including source code and system specifications. This project utilized two Moteino microcontrollers, a Raspberry Pi Zero, a NEMA-17 stepper motor, a micro servo, motor controller, 3-d printed remote, custom PCBs, camera, and acrylic casing. An RF communication protocol was developed using the RFM69 tranceivers on the Moteinos to establish communication between the remote and the main device. The main device consists of custom acrylic casing and a circulating tray that is actuated using the motor controller and the NEMA-17 stepper motor. 
 
 The remote control has several functions including moving to a specific position and mode toggling (automatic vs manual). It also has a dispense option which sends a command to the device prompting a micro servo-controlled flap to move to the open position. 
