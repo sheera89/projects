@@ -1,3 +1,4 @@
+# Me2U
 This project involved developing an application that would allow recipients (people in need) to better connect with donors.
 My contributions are shown here (only class I didn't fully write is Cart). This particular bit implements our donor user story;
 as a donor, I want to be able to donate items and see which items are currently needed by the organization. 
