@@ -1,1 +1,1 @@
-Bird feeder project including source code and full system specifications.
+Bird feeder project including source code and system specifications.
