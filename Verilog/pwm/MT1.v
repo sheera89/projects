@@ -1,7 +1,6 @@
 //Sandeep Heera
 //MT1.v
 //This module interfaces the DE2 board with the PWM module.
-//TCES 330 Digital Design
 
 module MT1( CLOCK_50, SW, LEDR, LEDG );
 	input CLOCK_50; //50 MHz cloCK
