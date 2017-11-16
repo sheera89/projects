@@ -1,6 +1,3 @@
-Sandeep Heera
-6/1/2017
-
 Dependencies-
 mysql workbench
 InnoDB
