@@ -35,9 +35,6 @@ Steps to run program:
 	 191528   NOL90NVM4OU
 	 655068   EVO23HBW8RL
 	 810391   XDG98GGT9UB
-	 
-10. You should now be at the main menu. If there are any issues, please feel free to contact me at (206) 229-8194 or by e-mail
-    at sheera89@uw.edu. The only issue that can arise thatI can think of is if you are not on a Windows x64 machine.
 
-11. To see changes to data including changes to the food_consumed table, drinks_consumed table, workouts table you can check 
+10. To see changes to data including changes to the food_consumed table, drinks_consumed table, workouts table you can check 
     via the JTables inside the program or by querying the tables in workbench after the data has been manipulated.
